@@ -1,0 +1,70 @@
+{
+  "node": {
+    "035d753191969a224bba9cfcb3e663e14292f5ac": {
+      "workers": {
+        "app/cart/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/unauth-page/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/[details]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cart/page": "action-browser",
+        "app/page": "rsc",
+        "app/unauth-page/page": "action-browser",
+        "app/[details]/page": "rsc",
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "29ce1bc026b910dddd667447bf231afaa73817fc": {
+      "workers": {
+        "app/cart/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/unauth-page/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/[details]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cart/page": "action-browser",
+        "app/page": "rsc",
+        "app/unauth-page/page": "action-browser",
+        "app/[details]/page": "rsc",
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "2bf12b38537439f88a6251855467bb04c46eeea1": {
+      "workers": {
+        "app/cart/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/unauth-page/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/[details]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cart/page": "action-browser",
+        "app/page": "rsc",
+        "app/unauth-page/page": "action-browser",
+        "app/[details]/page": "rsc",
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "726c9ab7e874d4990be01fd862f36705965fa315": {
+      "workers": {
+        "app/cart/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/unauth-page/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!",
+        "app/[details]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fsixth-next-lesson%2Factions%2Faction.js%22%2C%5B%22logoutAction%22%2C%22loginAction%22%2C%22fetchProducDetails%22%2C%22fetchAllProducts%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cart/page": "action-browser",
+        "app/page": "rsc",
+        "app/unauth-page/page": "action-browser",
+        "app/[details]/page": "rsc",
+        "app/_not-found/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "RAcjpL+t5ZYfCmRVfpeDO3rz2l8QMUtzd0KS2nn8yDQ="
+}
